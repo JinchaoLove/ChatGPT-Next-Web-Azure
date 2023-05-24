@@ -1,4 +1,4 @@
-export const OWNER = "Yidadaa";
+export const OWNER = "realDuang";
 export const REPO = "ChatGPT-Next-Web";
 export const REPO_URL = `https://github.com/${OWNER}/${REPO}`;
 export const ISSUE_URL = `https://github.com/${OWNER}/${REPO}/issues`;
@@ -40,3 +40,5 @@ export const NARROW_SIDEBAR_WIDTH = 100;
 export const ACCESS_CODE_PREFIX = "ak-";
 
 export const LAST_INPUT_KEY = "last-input";
+
+export const REQUEST_TIMEOUT_MS = 60000;
